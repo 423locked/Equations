@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equations", "Equations\Equa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solver", "Solver\Solver.csproj", "{C089F65E-CBF9-42AA-8BA7-1B3DB4097975}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solver.Tests", "Solver.Tests\Solver.Tests.csproj", "{9C9EC7E5-9FB1-491E-881F-9202A56A6804}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C089F65E-CBF9-42AA-8BA7-1B3DB4097975}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C089F65E-CBF9-42AA-8BA7-1B3DB4097975}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C089F65E-CBF9-42AA-8BA7-1B3DB4097975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C9EC7E5-9FB1-491E-881F-9202A56A6804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C9EC7E5-9FB1-491E-881F-9202A56A6804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C9EC7E5-9FB1-491E-881F-9202A56A6804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C9EC7E5-9FB1-491E-881F-9202A56A6804}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
